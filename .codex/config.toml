@@ -1,0 +1,4 @@
+[mcp_servers.filesystem]
+command = "npx"
+args = ["-y", "@modelcontextprotocol/server-filesystem", "C:\\Users\\hvv19\\OneDrive\\Documents\\ChatGPT\\Моя база знаний"]
+enabled = true
